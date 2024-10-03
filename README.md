@@ -1,2 +1,2 @@
-# Vomatix
+## Vomatix
 Это репозиторий команды Vomatix
